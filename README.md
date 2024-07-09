@@ -1,7 +1,7 @@
 # Python practice with pandas,numpy, matplotlib and seaborn.
 
 
-**Data Understanding**
+##**Data Understanding**
 
 -*Imported data.*
 
@@ -9,6 +9,7 @@
 
 -*First checked our data.*
 
+[s1 data understanding.ipynb](s1%20data%20understanding.ipynb)
 
 **Data Preparation**
 
