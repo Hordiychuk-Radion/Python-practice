@@ -1,7 +1,7 @@
 # Python practice with pandas,numpy, matplotlib and seaborn.
 
 
-##**Data Understanding**
+#**Data Understanding**
 
 -*Imported data.*
 
@@ -25,6 +25,7 @@
 
 -*Dropped duplicated rows from dataset and reset index.*
 
+[s2 data preperation.ipynb](s2%20data%20preperation.ipynb)
 
 **Feature Understanding**
 
@@ -34,6 +35,8 @@
 
 -*Created histogram to bin speeds of roller coasters and view their frequency distribution.*
 
+ [s3 Feature Understanding.ipynb](s3%20Feature%20Understanding.ipynb)
+
 **Feature Relationships**
 
 -*Created scatterplot for speed and height with year-based hue of points.*
@@ -42,6 +45,10 @@
 
 -*Created a correlation heatmap for selected features.*
 
+[s4 Feature relationships.ipynb](s4%20Feature%20relationships.ipynb)
+
 **Ask Questions**
 
 -*Used groupby and query to create a bar plot with sorted descending data on mean speed of roller coasters by location.*
+
+[s5 question about the data.ipynb](s5%20question%20about%20the%20data.ipynb)
