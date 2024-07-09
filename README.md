@@ -1,11 +1,14 @@
-# Python-practice with pandas,numpy, matplotlib and seaborn.
+# Python practice with pandas,numpy, matplotlib and seaborn.
 
 
 **Data Understanding**
 
 -*Imported data.*
+
 -*Opened the data.*
+
 -*First checked our data.*
+
 
 **Data Preparation**
 
