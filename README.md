@@ -25,7 +25,8 @@
 
 -*Dropped duplicated rows from dataset and reset index.*
 
-[s2_data_preparation.ipynb](s2_data_preparation.ipynb)
+[s2 data preperation.ipynb](s2%20data%20preperation.ipynb)
+
 
 
 **Feature Understanding**
