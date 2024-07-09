@@ -11,7 +11,7 @@
 
 [s1 data understanding.ipynb](s1%20data%20understanding.ipynb)
 
-**Data Preparation**
+## **Data Preparation**
 
 -*Filtered columns by need.*
 
@@ -29,7 +29,7 @@
 
 
 
-**Feature Understanding**
+## **Feature Understanding**
 
 -*Univariate analysis of features: KDE, histogram, box plot.*
 
@@ -39,7 +39,7 @@
 
  [s3 Feature Understanding.ipynb](s3%20Feature%20Understanding.ipynb)
 
-**Feature Relationships**
+## **Feature Relationships**
 
 -*Created scatterplot for speed and height with year-based hue of points.*
 
@@ -49,7 +49,7 @@
 
 [s4 Feature relationships.ipynb](s4%20Feature%20relationships.ipynb)
 
-**Ask Questions**
+## **Ask Questions**
 
 -*Used groupby and query to create a bar plot with sorted descending data on mean speed of roller coasters by location.*
 
