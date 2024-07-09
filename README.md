@@ -1,7 +1,7 @@
 # Python practice with pandas,numpy, matplotlib and seaborn.
 
 
-# **Data Understanding**
+## **Data Understanding**
 
 -*Imported data.*
 
